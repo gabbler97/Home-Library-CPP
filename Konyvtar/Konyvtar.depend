@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1556301517 source:c:\users\gabor\desktop\konyvtar\konyv.cpp
+	<iostream>
+	"memtrace.h"
+	"Konyv.h"
+
+1526260976 c:\users\gabor\desktop\konyvtar\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+
+1526264439 c:\users\gabor\desktop\konyvtar\konyv.h
+	<string>
+	"memtrace.h"
+
+1556740707 source:c:\users\gabor\desktop\konyvtar\main.cpp
+	<iostream>
+	"memtrace.h"
+	"Konyv.h"
+	"Polc.h"
+	"Menu.h"
+	<string>
+	<cstring>
+	<sstream>
+
+1556838511 c:\users\gabor\desktop\konyvtar\polc.h
+	"memtrace.h"
+	"Konyv.h"
+
+1556742754 c:\users\gabor\desktop\konyvtar\menu.h
+	<iostream>
+	"memtrace.h"
+	"Konyv.h"
+	"Polc.h"
+
+1526260976 source:c:\users\gabor\desktop\konyvtar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1556838395 source:c:\users\gabor\desktop\konyvtar\menu.cpp
+	<stdlib.h>
+	<iostream>
+	<string>
+	<cstring>
+	<sstream>
+	"memtrace.h"
+	"Menu.h"
+	"Polc.h"
+	"Konyv.h"
+
+1556282693 source:c:\users\gabor\desktop\konyvtar\polc.cpp
+	<iostream>
+	"memtrace.h"
+	"Polc.h"
+	"Konyv.h"
+
