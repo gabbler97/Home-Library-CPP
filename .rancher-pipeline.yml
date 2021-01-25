@@ -1,0 +1,8 @@
+stages:
+- name: Hello
+  steps:
+  - runScriptConfig:
+      image: gcc:latest
+      shellScript: echo 'Everything was okay mah boi!'
+timeout: 60
+notification: {}
